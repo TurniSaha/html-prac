@@ -1,0 +1,19 @@
+html {
+    font-size: 62.5%;
+    box-sizing: border-box;
+  }
+  
+  *, *::before, *::after {
+    margin: 0;
+    padding: 0;
+    box-sizing: inherit;
+  }
+
+
+
+  /* font-family: 'Montserrat', sans-serif;
+
+  font-family: 'DM Serif Display', serif;
+
+  font-family: 'Inria Serif', serif; */
+
